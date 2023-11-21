@@ -11,6 +11,7 @@ Check out [Papers We Love](https://github.com/papers-we-love/papers-we-love) for
   - [Algorithms](#algorithms)
   - [Architecture](#architecture)
   - [Programming](#programming)
+  - [Projects](#projects)
 
 ## Algorithms
 
@@ -28,3 +29,9 @@ Check out [Papers We Love](https://github.com/papers-we-love/papers-we-love) for
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713) by Harold Abelson, Gerald Jay Sussman, Julie Sussman, 1984.
 
 - [The C Programming Language](https://www.goodreads.com/book/show/515601) by Brian W. Kernighan, Dennis M. Ritchie, 1978.
+
+## Projects
+
+- [The Mythical Man-Month](https://www.goodreads.com/book/show/13629) by Frederick P. Brooks Jr., 1975.
+
+- [Peopleware](https://www.goodreads.com/book/show/67833) by Tom DeMarco, Timothy R. Lister, 1987.
