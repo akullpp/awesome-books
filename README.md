@@ -21,6 +21,7 @@ Check out [Papers We Love](https://github.com/papers-we-love/papers-we-love) for
 
 - [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759) by John Ousterhout, 2018.
 - [Designing Data-Intensive Application](https://www.goodreads.com/book/show/23463279) by Martin Kleppmann, 2015.
+- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212) by Vladik Khononov, 2021.
 
 ## Programming
 
